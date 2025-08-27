@@ -1,0 +1,47 @@
+{
+  "S36530": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Richard Hierhold, Stockheimweg 4, 8164 Gutenberg, Österreich",
+    "price": "2.500 €",
+    "description": "Hersteller: Simson<br>Typ: S51<br>Fahrgestelnummer: 5968484<br>Erstzulassung: 02/1987<br>KM laut Vorbesitzer: 4.325 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Richard Hierhold<br>Stockheimweg 4<br>8164 Gutenberg<br>Österreich<br>Telefon: +43 664 4149447",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-08-2025",
+    "deliveryDate": "02-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
