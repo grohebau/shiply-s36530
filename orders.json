@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Stockheimweg 4",
+      "postal_code": "8164",
+      "city": "Gutenberg",
+      "country": "Österreich",
+      "lat": "47.195005758005706",
+      "lng": "15.511490070765914"
     }
   }
 }
