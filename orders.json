@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "27-08-2025",
-    "deliveryDate": "02-09-2025 - 11:30 Uhr",
+    "deliveryDate": "03-09-2025 - 15:30 Uhr",
     "pickup": {
-      "street": "",
+      "street": "Auf A8",
       "postal_code": "",
       "city": "",
       "country": "",
-      "lat": "",
-      "lng": ""
+      "lat": "48.41477750749109",
+      "lng": "13.400674559528849"
     },
     "delivery": {
       "street": "Stockheimweg 4",
